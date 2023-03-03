@@ -1,0 +1,9 @@
+3,Iarna,s,rock
+9,Floarea,dsd,rock
+10,Trandafir,p,folk
+12,SoareleMeu,p,folk
+15,CampRock,c,rock
+14,CampRock,c,disco
+14,,,
+14,CampRock_1111,p,rock
+14,CampRock_2,c,disco
