@@ -1,0 +1,4 @@
+2234,Pop,Ana,pediatrie,0
+1222,Ignat,Andrei,ortopedie,1
+1256,Serban,Ilie,chirurgie,0
+1901,Ionescu,Catalin,oncologie,0

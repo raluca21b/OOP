@@ -1,0 +1,22 @@
+[2022-05-16 13:33:40] [info] Start Program:
+Path:"C:\Users\ralub\OneDrive\Desktop\oop\doctori\x64\Debug\doctori.exe"
+Arguments:
+Working directory: "C:\Users\ralub\OneDrive\Desktop\oop\doctori\doctori\"
+Modules: Selected: C:\Users\ralub\OneDrive\Desktop\oop\doctori\x64\Debug\doctori.exe Excluded: 
+Sources: Selected: C:\Users\ralub\OneDrive\Desktop\oop\doctori\doctori Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\ralub\AppData\Local\Temp\4iubtwk4.ycz 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-05-16 13:33:40] [info] Module: C:\Users\ralub\OneDrive\Desktop\oop\doctori\x64\Debug\doctori.exe is selected because it matches selected pattern: C:\Users\ralub\OneDrive\Desktop\oop\doctori\x64\Debug\doctori.exe
+[2022-05-16 13:33:40] [info] ----------------------------------------------------
+[2022-05-16 13:33:40] [info] Coverage binary generated in file: C:\Users\ralub\AppData\Local\Temp\4iubtwk4.ycz
+[2022-05-16 13:33:40] [info] ----------------------------------------------------
+[2022-05-16 13:33:40] [error] Your program stop with error code: -1073741515

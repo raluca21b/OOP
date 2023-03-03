@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>doctoriClass</class>
+ <widget class="QWidget" name="doctoriClass" >
+  <property name="objectName" >
+   <string notr="true">doctoriClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>doctori</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="doctori.qrc"/>
+ </resources>
+ <connections/>
+</UI>
