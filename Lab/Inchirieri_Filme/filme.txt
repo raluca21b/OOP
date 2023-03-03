@@ -1,0 +1,7 @@
+titanic,romantic,1998,DiCaprio
+Notebook,romantic,2004,Dorel
+movie,actiune,2012,actor
+titlu,gen1,1919,awefnhgoi
+sdfugskd,Horror,112,fsfsvs
+fsdgs,drama,1212,sesfff
+sdfugskdsvdsvsddffdv,Horror,112,fsfsvs
